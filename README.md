@@ -1,2 +1,3 @@
 # Husky Project Book
-husky project impression
+
+Book about the Husky Project.
